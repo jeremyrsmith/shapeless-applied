@@ -1,4 +1,4 @@
-#shapeless-applied
+# shapeless-applied
 
 shapeless-applied is a tiny library for doing typelevel computations on literal types. It's intended to be used with
 [shapeless](https://github.com/milessabin/shapeless), so it includes that as a dependency.
